@@ -1,6 +1,6 @@
 ## Hi there👋
 
-![image](image.png)
+![alt text](image.png)
 
 ```js
 const myInfos = {
