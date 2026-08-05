@@ -1,4 +1,13 @@
-## Hi there, I'm RohamKhakbaz 👋
+## Hi there👋
+
+```js
+const myInfos = {
+  fullName: "RohamKhakbaz",
+  birthDay: "16 mar 2004",
+  university: "karaj",
+  phone: "09213310531"
+}
+```
 
 <!--
 **rhmkhbz/rhmkhbz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
