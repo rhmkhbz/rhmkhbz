@@ -8,6 +8,11 @@ const myInfos = {
   phone: "09213310531"
 }
 ```
+___
+
+### My Skills 
+
+![My Skills](https://skillicons.dev/icons?i=html,css,js,git,github,react)
 
 <!--
 **rhmkhbz/rhmkhbz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
