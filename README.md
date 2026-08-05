@@ -1,4 +1,7 @@
-## Hi there👋
+## Hi👋 I'm Roham Khakbaz
+### Frontend Developer
+
+---
 
 ```js
 const myInfos = {
