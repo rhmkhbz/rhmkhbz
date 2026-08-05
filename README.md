@@ -1,16 +1,19 @@
 ## Hi there👋
 
+![image](image.png)
+
 ```js
 const myInfos = {
   fullName: "RohamKhakbaz",
   birthDay: "16 mar 2004",
   university: "karaj",
-  phone: "09213310531"
-}
+  phone: "09213310531",
+};
 ```
-___
 
-### My Skills 
+---
+
+### My Skills
 
 ![My Skills](https://skillicons.dev/icons?i=html,css,js,git,github,react)
 
