@@ -1,5 +1,4 @@
-## Hi👋 I'm Roham Khakbaz
-### Frontend Developer
+## Hi👋 I'm Roham Khakbaz, I'm Frontend Developer❤️
 
 ---
 
