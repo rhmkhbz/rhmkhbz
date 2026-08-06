@@ -16,7 +16,7 @@
   />
 </p>
 
----
+[![divider_twin_serpant](https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/bars/divider_dual_energy_tracks.svg)](https://github.com/hiradEmami)
 
 ```js
 const myInfos = {
@@ -27,7 +27,7 @@ const myInfos = {
 };
 ```
 
----
+[![divider_twin_serpant](https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/bars/divider_dual_energy_tracks.svg)](https://github.com/hiradEmami)
 
 ### My Skills
 
