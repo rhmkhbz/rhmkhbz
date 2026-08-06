@@ -1,4 +1,20 @@
-## Hi👋 I'm Roham Khakbaz, I'm Frontend Developer❤️
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=240&section=header&text=Roham%20Khakbaz&fontSize=70&animation=twinkling" alt="Roham Khakbaz profile header" />
+</p>
+
+<h3 align="center">
+    <samp>
+        &gt; Hey There!, I am
+        <b><a target="_blank" href="https://www.linkedin.com/in/hirad-alagha/">Roham Khakbaz</a></b>
+    </samp>
+</h3>
+
+<p align="center">
+  <img
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1200&color=36BCF7&center=true&vCenter=true&width=900&lines=I'm+Frontend+Developer;"
+    alt="Typing SVG"
+  />
+</p>
 
 ---
 
@@ -31,3 +47,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&width=100" alt="Profile footer wave"/>
+</p>
