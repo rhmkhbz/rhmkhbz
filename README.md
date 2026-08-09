@@ -31,7 +31,7 @@ const myInfos = {
 
 ### My Skills
 
-![My Skills](https://skillicons.dev/icons?i=html,css,js,regex,git,tailwind,react,next,typescript,photoshop)
+![My Skills](https://skillicons.dev/icons?i=html,css,js,regex,npm,git,tailwind,react,next,typescript,photoshop)
 
 <!--
 **rhmkhbz/rhmkhbz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
